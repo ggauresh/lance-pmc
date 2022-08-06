@@ -1,0 +1,44 @@
+<svg version="1.1" width="250" height="40" viewBox="0 0 500 50" xmlns="http://www.w3.org/2000/svg">
+
+    <rect x="2" y="0" width="428" height="10" fill="#f4623a"></rect>
+
+    <circle cx="10" cy="5" r="10" fill="#f4623a"></circle>
+
+    <rect x="129" y="-2" width="200" height="14" rx="5" ry="5" fill="#f4623a"></rect>
+
+    <circle cx="400" cy="5" r="8" fill="#f4623a" />
+
+    <path stroke="#f4623a" fill="#f4623a" d="
+    M408,5
+    A20,40 0 0,1 398,50
+    A30,40 0 0,0 390,20
+    A20,10 0 0,1 395,10
+    Z
+    " />
+
+    <path fill="#f4623a" stroke="#f4623a" d="
+    M500,5
+    A100,25 0 0,1 445,-10
+    L445,5
+    Z
+    " />
+    <path fill="#f4623a" stroke="#f4623a" d="
+    M500,5
+    A100,25 0 0,0 445,20
+    L445,5
+    Z
+    " />
+
+    <path d="
+    M400,5
+    A50,20 0 0,0 445,-10
+    L445,5
+    Z
+    " stroke="#f4623a" fill="#f4623a" />
+    <path d="
+    M400,5
+    A50,20 0 0,1 445,20
+    L445,5
+    Z
+    " stroke="#f4623a" fill="#f4623a" />
+</svg>

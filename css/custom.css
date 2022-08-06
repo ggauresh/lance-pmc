@@ -1,0 +1,13 @@
+.navbar-brand img {
+  max-width: 8vw;
+}
+
+.navbar-brand {
+  display: flex;
+  flex-direction: column;
+}
+
+#description img {
+  max-width: 100%;
+  height: auto;
+}
